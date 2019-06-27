@@ -18,7 +18,7 @@
             app:layout_constraintHorizontal_bias="0.746"
             app:layout_constraintVertical_bias="0.37" android:id="@+id/textView"/>
     <Button
-            android:onClick="clecamare"
+            android:onClick="calMe"
             android:text="Button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

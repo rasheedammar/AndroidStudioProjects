@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
-    fun clecamare(view : View){
+    fun calMe(view : View){
+        taskId
     }
 }
